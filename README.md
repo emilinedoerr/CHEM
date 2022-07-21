@@ -1,2 +1,2 @@
 # CHEM
-Notes from my general, organic, and biochemistry classes in college. 
+Note pages for topics in general chemistry, organic, and biochemistry 
